@@ -1,24 +1,20 @@
-### VirtualEnv ###
+
+### venv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
-.Python-version/
-[Bb]in
-[Ii]nclude
-[Ll]ib
-[Ll]ib64
-[Ll]ocal
-[Ss]cripts
 pyvenv.cfg
+.env
 .venv
+env/
+venv/
+Excel/
+ENV/
+scraper/
+env.bak/
+venv.bak/
 pip-selfcheck.json
-.json
-.vscode
-formdatatomysql-34eddc3281d3.json/
-
-
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+*.json
+*.vscode
+__pycache__
+*.python-version
+formdatatomysql-34eddc3281d3.json
