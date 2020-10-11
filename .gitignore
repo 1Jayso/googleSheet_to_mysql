@@ -12,3 +12,5 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 .json
+.vscode
+formdatatomysql-34eddc3281d3.json
