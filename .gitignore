@@ -1,7 +1,7 @@
 ### VirtualEnv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
-.Python
+.Python-version/
 [Bb]in
 [Ii]nclude
 [Ll]ib
@@ -13,4 +13,12 @@ pyvenv.cfg
 pip-selfcheck.json
 .json
 .vscode
-formdatatomysql-34eddc3281d3.json
+formdatatomysql-34eddc3281d3.json/
+
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
